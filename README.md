@@ -1,7 +1,7 @@
 ![MasterHead](https://ofuturodascoisas.com/wp-content/uploads/2018/04/virtuaverse-by-Valenberg-1.gif)
 <p font-family: 'Great Vibes'>
-<h1 align="center" >Hi 👋, I'm YHR <br>Yousuf Hasan Riyad</h1>
-<h3 align="center">A passionate game developer from Bangladesh</h3>
+<h1 align="center" >I am <strong>YHR</strong> <br>Yousuf Hasan Riyad</h1>
+<h3 align="center">A passionate game developer from Bangladesh 🇧🇩</h3>
 <img align="right" alt="Picture" width="400" src="https://cdn.dribbble.com/users/1403191/screenshots/6247545/2gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyad671&label=Profile%20views&color=0e75b6&style=flat" alt="riyad671" /> </p>
