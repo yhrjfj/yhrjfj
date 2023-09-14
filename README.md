@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyad671&label=Profile%20views&color=0e75b6&style=flat" alt="riyad671" /> </p>
 
-- 🌱 I’m currently learning **Game Development**
 
 - 📫 How to reach me **yousufh291@gmail.com**
 
