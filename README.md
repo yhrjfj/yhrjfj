@@ -1,4 +1,4 @@
-<img src="img/text/Riyad.jpg">
+<img src="img/images/riyad.png">
 
 ---
 #### I am currently learning<br>
