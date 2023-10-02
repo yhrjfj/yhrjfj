@@ -1,7 +1,7 @@
 <img src="img/text/Riyad.jpg">
 
 ---
-#### I am currently learning "App Development"<br>
+#### I am currently learning<br>
 
 ---
 
