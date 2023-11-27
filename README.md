@@ -1,4 +1,4 @@
-<img src="img/images/yhrjfj.gif">
+<img src="img/animated_logo/Banner.gif">
 
 ---
 
