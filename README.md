@@ -2,7 +2,7 @@
 
 ---
 
-<h1 align="center">Noob App Developer</h3>
+<h1 align="center"><img src="img/animated_logo/noob_app_developer.gif"></h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyad671&label=Profile%20views&color=0e75b6&style=flat" alt="riyad671" /> </p>
