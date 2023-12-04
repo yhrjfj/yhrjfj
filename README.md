@@ -1,4 +1,4 @@
-<img src="img/animated_logo/rijo_yhrjfj.gif">
+<img src="img/animated_logo/Banner_RiJo.gif">
 
 ---
 
