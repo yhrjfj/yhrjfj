@@ -10,8 +10,6 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yhrjfj&show_icons=true&locale=en" alt="riyad671" /></p>
 
-<h1 align="center"><img src="img/Udemy_Certificate/Monday_certificate.jpg"></h3>
-
 ---
 
 ### ✍️ Random Dev Quote
