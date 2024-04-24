@@ -2,6 +2,23 @@
 
 ---
 
+## About Me
+
+Hello! I'm Riyad, a passionate mobile app developer with a focus on Android development. Currently, I'm diving deep into the exciting world of Jetpack Compose, the modern toolkit for building native Android UI. With its declarative approach and powerful features, I'm exploring new ways to create beautiful and efficient user interfaces.
+
+### My Expertise:
+
+- **Android Development:** I have extensive experience in developing Android applications using Kotlin.
+  
+- **Jetpack Compose:** I'm currently honing my skills in Jetpack Compose to leverage its capabilities for creating dynamic and responsive UIs.
+  
+- **UI/UX Design:** I'm passionate about crafting engaging user experiences and pay close attention to design principles and best practices.
+
+### What I'm Working On:
+
+Currently, I'm working on several exciting projects leveraging Jetpack Compose to deliver modern, user-friendly applications. I'm actively exploring the latest updates and advancements in the Android ecosystem to stay at the forefront of app development.
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyad671&label=Profile%20views&color=0e75b6&style=flat" alt="riyad671" /> </p>
 
 
