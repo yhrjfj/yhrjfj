@@ -1,4 +1,4 @@
-<img src="img/animated_logo/banner_RiJo.gif">
+<img src="img/animated_logo/banner_Riyad.gif">
 
 ---
 
