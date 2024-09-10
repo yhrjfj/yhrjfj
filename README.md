@@ -2,7 +2,7 @@
 
 ---
 # 💫 About Me:
-Hello! I'm Riyad, a passionate mobile app developer with a focus on Android development. Currently, I'm diving deep into the exciting world of Jetpack Compose, the modern toolkit for building native Android UI. With its declarative approach and powerful features, I'm exploring new ways to create beautiful and efficient user interfaces.<br><br>My Expertise:<br>Android Development: I have extensive experience in developing Android applications using Kotlin.<br>Jetpack Compose: I'm currently honing my skills in Jetpack Compose to leverage its capabilities for creating dynamic and responsive UIs.<br>UI/UX Design: I'm passionate about crafting engaging user experiences and pay close attention to design principles and best practices.<br><br>What I'm Working On:<br>Currently, I'm working on several exciting projects leveraging Jetpack Compose to deliver modern, user-friendly applications. I'm actively exploring the latest updates and advancements in the Android ecosystem to stay at the forefront of app development.<br><br>
+Hi, I'm Yousuf Hasan Riyad, an aspiring game developer passionate about creating immersive and engaging experiences. Currently, I am honing my skills by building basic games using Unreal Engine and exploring game mechanics, design, and storytelling. I love the challenge of turning creative ideas into interactive worlds, and I'm always eager to learn new techniques and push the boundaries of what's possible in game development. Looking forward to contributing to the future of gaming with innovative and exciting projects!
 
 
 ## 🌐 Socials:
