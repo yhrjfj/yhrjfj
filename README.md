@@ -1,31 +1,36 @@
 <img src="img/animated_logo/banner_Riyad.gif">
 
 ---
-# 💫 About Me:
-Hi, I'm YHRJFJ, an aspiring game developer passionate about creating immersive and engaging experiences. Currently, I am honing my skills by building basic games using Unreal Engine and exploring game mechanics, design, and storytelling. I love the challenge of turning creative ideas into interactive worlds, and I'm always eager to learn new techniques and push the boundaries of what's possible in game development. Looking forward to contributing to the future of gaming with innovative and exciting projects!
 
+<h1 align="center">Hi 👋, I'm YHRJFJ</h1>
+<h3 align="center">Hi, I'm YHRJFJ, an aspiring game developer passionate about creating immersive and engaging experiences. Currently, I am honing my skills by building basic games using Unreal Engine and exploring game mechanics, design, and storytelling. I love the challenge of turning creative ideas into interactive worlds, and I'm always eager to learn new techniques and push the boundaries of what's possible in game development. Looking forward to contributing to the future of gaming with innovative and exciting projects!</h3>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yousufhasanriyad.yhrjfj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yousufhasanriyad.yhrjfj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/yhrjfj)
+- 🌱 I’m currently learning **Game Development, Interaction System**
+
+- 📫 How to reach me **yousufh291@gmail.com**
+
+- 📄 Know about my experiences [https://sites.google.com/view/yousufhasanriyad/resume?authuser=0](https://sites.google.com/view/yousufhasanriyad/resume?authuser=0)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/insane42779089" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="insane42779089" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yhrjfj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yhrjfj" height="30" width="40" /></a>
+<a href="https://fb.com/yousufhasanriyad.yhrjfj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yousufhasanriyad.yhrjfj" height="30" width="40" /></a>
+<a href="https://instagram.com/yousufhasanriyad.yhrjfj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yousufhasanriyad.yhrjfj/" height="30" width="40" /></a>
+<a href="https://www.behance.net/yousufhasan6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="yousufhasan6" height="30" width="40" /></a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyad671&label=Profile%20views&color=0e75b6&style=flat" alt="riyad671" /> </p>
 
-# 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yhrjfj&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yhrjfj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yhrjfj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yhrjfj&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yhrjfj&show_icons=true&locale=en&layout=compact" alt="yhrjfj" /></p>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yhrjfj&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
