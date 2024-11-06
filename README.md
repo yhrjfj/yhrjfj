@@ -3,7 +3,7 @@
 ---
 
 <h1 align="center">Hi 👋, I'm YHRJFJ</h1>
-<h3 align="center">Hi, I'm YHRJFJ! While I'm currently taking a step back from active projects, I'm still passionate about game development and exploring creative ideas. Looking forward to returning to building exciting experiences when the time is right!</h3>
+<h3 align="center">While I'm currently taking a step back from active projects, I'm still passionate about game development and exploring creative ideas. Looking forward to returning to building exciting experiences when the time is right!</h3>
 
 
 
