@@ -3,7 +3,7 @@
 ---
 
 <h1 align="center">Hi 👋, I'm YHRJFJ</h1>
-<h3 align="center">Hi, I'm YHRJFJ, an aspiring game developer passionate about creating immersive and engaging experiences. Currently, I am honing my skills by building basic games using Unreal Engine and exploring game mechanics, design, and storytelling. I love the challenge of turning creative ideas into interactive worlds, and I'm always eager to learn new techniques and push the boundaries of what's possible in game development. Looking forward to contributing to the future of gaming with innovative and exciting projects!</h3>
+<h3 align="center">Hi, I'm YHRJFJ! While I'm currently taking a step back from active projects, I'm still passionate about game development and exploring creative ideas. Looking forward to returning to building exciting experiences when the time is right!</h3>
 
 
 
